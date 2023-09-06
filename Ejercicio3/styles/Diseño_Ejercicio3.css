@@ -1,0 +1,63 @@
+body{
+
+    background-color:  rgba(117, 116, 116, 0.349);
+
+}
+
+.Contenedor_1{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(rgba(36, 39, 174, 0.63),rgba(100, 139, 203, 0.627));}
+
+.imgFB{
+    width: 450px;
+    /*Margin-left o right es para que el texto se aleje de la imagen
+    dependiendo de la posición de la imagen"*/
+    margin-left:  100px;
+}
+
+.Contenedor_2{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(rgb(85, 36, 190),rgba(143, 43, 210, 0.603), rgb(237, 68, 181), rgba(238, 147, 43, 0.67))}
+
+.imgIG{
+    width: 450px;
+    margin-left:  100px;
+}
+
+.Contenedor_3{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(rgb(74, 225, 255),rgba(255, 98, 150, 0.627));}
+
+.imgTK{
+    width: 450px;
+    margin-left:  100px;
+}
+
+.Contenedor_4{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(rgb(96, 244, 96),rgba(248, 76, 248, 0.627))}
+
+.imgWA{
+    width: 450px;
+    margin-left:  100px;
+}
+
+.Contenedor_5{
+    color: white;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(3, 3, 3);}
+
+.imgX{
+    width: 450px;
+    margin-left:  100px;
+}

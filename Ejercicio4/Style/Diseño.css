@@ -1,0 +1,17 @@
+.imgL{
+    width: 200px;height: 180px;
+    float: left; margin-right: 30px;
+}
+.Contenedor_1{
+    margin-top: 5%;
+    background-color: rgba(246, 217, 156, 0.573);
+    margin-left: auto;
+
+    
+}
+
+.Contenedor_2{
+    color: white;
+    margin-top: 5%;
+    background-image: url(https://gaceta.cch.unam.mx/sites/default/files/styles/imagen_articulos_1920x1080/public/2020-07/video_mensaje_1.jpg?h=d1cb525d&itok=4PYz5F61) ;
+}

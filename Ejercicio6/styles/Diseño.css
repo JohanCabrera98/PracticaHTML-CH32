@@ -1,0 +1,28 @@
+.Titulo{
+    text-align: center;
+    font-size: 300%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.Contenedor_1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    }
+
+.imgLana{
+    width:500px;
+    margin-left:  50px;
+}
+
+body{
+background-image: url(https://garden.spoonflower.com/c/7368347/p/f/m/ep1NvxFEwLb_2-9NrgZV5SluX7HCUUrP5KzoNY-Dtex-K2wfugbrAw/7368347-dear-clementine-oranges-teal-by-crystal_walen.jpg);
+}
+
+.Contenedor_2{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 255, 255);
+    }
